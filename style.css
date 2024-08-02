@@ -1,0 +1,14 @@
+html,
+body {
+    height: 100%;
+}
+
+#container {
+    height: 90%;
+    width: 100%;
+}
+
+.button-container {
+    margin: 10px 0;
+    text-align: center;
+}
